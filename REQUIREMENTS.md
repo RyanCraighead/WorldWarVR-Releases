@@ -10,7 +10,7 @@
 
 The normal Steam installation is detected automatically when possible. A compatible installation in another folder can be selected with **Browse** and is validated before launch.
 
-WorldAtWarVR does not include the game, maps, executables, or other game assets.
+World War VR does not include the game, maps, executables, or other game assets.
 
 ## Performance
 
@@ -25,7 +25,7 @@ installer does not include or download a bot package.
 
 To install them, download [PeZBOT 005p for World at War](https://www.moddb.com/mods/pezbot/downloads/pezbot-005p-for-world-at-war), leave
 `PeZBOTWAW_005p.zip` unextracted in the current user's Windows **Downloads**
-folder, enable **Automatic Bots**, and launch Multiplayer. WorldAtWarVR checks
+folder, enable **Automatic Bots**, and launch Multiplayer. World War VR checks
 the archive and installs it into its own private multiplayer profile. Do not
 extract the archive or install it into the Call of Duty: World at War folder.
 
