@@ -27,6 +27,23 @@ The launcher normally finds a Steam installation automatically. If it does not, 
 - **Recommended**, **High Quality**, and **Performance** VR resolution presets
 - Saved settings, so normal setup is required only once
 
+## Optional multiplayer bots
+
+WorldAtWarVR can automatically install and configure nine PeZBOT players for
+local/offline multiplayer. PeZBOT itself is not included in the installer.
+One-time setup:
+
+1. Download [PeZBOT 005p for World at War](https://www.moddb.com/mods/pezbot/downloads/pezbot-005p-for-world-at-war).
+2. Leave `PeZBOTWAW_005p.zip` unextracted in your Windows **Downloads** folder.
+3. Open WorldAtWarVR, select **Multiplayer**, and enable **Automatic Bots**.
+4. Select **Launch in VR**, then create a local game with **Dedicated** set to
+   **No**. The launcher verifies and installs the archive automatically.
+
+Do not extract the ZIP or copy bot files into the game folder. After the first
+successful import, the launcher uses its verified private installation and the
+downloaded ZIP is no longer required. If bots do not appear, confirm that the
+download is the exact `PeZBOTWAW_005p.zip` archive and restart the launcher.
+
 ## Requirements
 
 - A lawfully obtained, compatible Windows installation of Call of Duty: World at War

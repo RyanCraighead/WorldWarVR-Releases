@@ -10,8 +10,13 @@ This project is still a pre-release. Zombies has received the most testing; othe
 ## Multiplayer
 
 - Local/offline multiplayer is experimental. Some maps or modes remain broken or may fail to start correctly.
-- Optional bots depend on a separate, supported user-supplied archive. Bot files are not included or downloaded by WorldAtWarVR.
+- Optional bots require the separately downloaded `PeZBOTWAW_005p.zip` archive.
+  Leave it unextracted in Windows Downloads; WorldAtWarVR verifies and installs
+  it automatically when **Automatic Bots** is enabled.
 - A map or mode may start without bots if its bot support fails, even when automatic bots are enabled.
+- The current launcher does not yet show a bot-installation status. If no bots
+  appear, confirm the archive has the exact filename above, restart the
+  launcher, and keep **Dedicated** set to **No** when creating the local game.
 - Online multiplayer is not supported or tested. Do not use this build on public servers.
 
 ## Campaign

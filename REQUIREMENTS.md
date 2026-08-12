@@ -20,7 +20,18 @@ A precise minimum CPU/GPU specification has not yet been established across enou
 
 ## Optional bots
 
-Bots are optional and intended only for local/offline multiplayer. The installer does not include or download a bot package. Automatic bot setup requires the separately obtained, supported user-supplied archive.
+Bots are optional and intended only for local/offline multiplayer. The
+installer does not include or download a bot package.
+
+To install them, download [PeZBOT 005p for World at War](https://www.moddb.com/mods/pezbot/downloads/pezbot-005p-for-world-at-war), leave
+`PeZBOTWAW_005p.zip` unextracted in the current user's Windows **Downloads**
+folder, enable **Automatic Bots**, and launch Multiplayer. WorldAtWarVR checks
+the archive and installs it into its own private multiplayer profile. Do not
+extract the archive or install it into the Call of Duty: World at War folder.
+
+When creating the local game, leave **Dedicated** set to **No** so the headset
+player joins alongside the bots. A successful import requests nine bots. The
+ZIP is no longer needed after the verified installation has been created.
 
 ## Not supported
 
