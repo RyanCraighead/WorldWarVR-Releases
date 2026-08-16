@@ -59,9 +59,6 @@ The right controller aims the visible weapon. The right trigger fires, the left 
 
 See the complete [VR controls](CONTROLS.md).
 
-## Media
-
-Actual gameplay screenshots and a headset-capture video will be added before the repository is made public. Only captures from a tested release build will be used.
 
 ## Reporting a problem
 
