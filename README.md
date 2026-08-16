@@ -1,3 +1,5 @@
+# Important!! Installed launcher must be run as admin!
+
 # World War VR
 
 World War VR is a standalone VR mod for the Windows version of **Call of Duty: World at War**. It adds stereo OpenXR rendering, 6DOF head tracking, motion-controller aiming, VR input, room-space menu panels, and a standalone launcher.
