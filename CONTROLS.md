@@ -8,15 +8,15 @@
 | Right controller pose | Aim the visible weapon |
 | Right trigger | Fire |
 | Left trigger | Reload |
-| Left grip | Aim down sights |
-| Left stick | Move relative to the headset's horizontal heading |
+| Left grip | Hold/cook the secondary tactical grenade; release to throw |
+| Left stick | Move relative to headset heading; physical turning automatically aligns the native player body |
 | Left stick click | Sprint; remains active while moving and clears at neutral |
 | Right stick left/right | Horizontal snap turn |
 | A | Jump / confirm a menu item |
 | B | Crouch / go back in a menu |
 | X | Use or interact |
 | Y | Switch to the next weapon |
-| Right stick click | Melee |
+| Right stick click or fast outward right-controller swing | Melee |
 | Hold right grip | Hold/cook a frag grenade; release to throw |
 | Left Menu, short press | Open or close the native pause menu |
 | Left Menu, hold one second | Recenter position and facing with a level horizon |

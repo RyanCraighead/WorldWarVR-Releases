@@ -57,7 +57,7 @@ The game, maps, and bot package are not included. See [Requirements](REQUIREMENT
 
 ## Controls
 
-The right controller aims the visible weapon. The right trigger fires, the left grip aims down sights, and the sticks handle movement and snap turning. Native menus appear on a panel in front of the player and can be pointed at with the right controller.
+The right controller aims the visible weapon. The right trigger fires, the left grip throws the secondary/tactical grenade, and the sticks handle movement and snap turning. Click the right stick or make a fast outward swing with the right controller to melee. Native menus appear on a panel in front of the player and can be pointed at with the right controller.
 
 See the complete [VR controls](CONTROLS.md).
 
