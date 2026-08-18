@@ -21,11 +21,11 @@ The following reflects hardware and connection methods tested so far:
 | Headset and connection | Status | Notes |
 |---|---|---|
 | Meta Quest 2 through Virtual Desktop | **Working** | This is the currently recommended wireless Quest 2 connection. |
+| Meta Quest 3 through Virtual Desktop | **Working** | Virtual Desktop is a confirmed working wireless connection for Quest 3. |
 | Meta Quest 2 through Air Link | **Working** | This route requires selecting the **SteamVR Beta** branch in Steam. SteamVR does not need to be opened manually; connect through Air Link and enable the SteamVR compatibility option in the World War VR launcher. |
 | Meta Quest 2 through Steam Link | **Not Working** | This connection is not currently considered a supported working route. |
 | Meta Rift S through Meta Horizon Link | **Working** | Tested using Meta as the active OpenXR launcher/runtime. |
 | Meta Rift S through SteamVR | **Working** | Tested with SteamVR as the active OpenXR runtime. |
-
 
 Other OpenXR headsets and connection methods may work, but have not yet been
 personally verified. If a headset fails, include the connection method and
