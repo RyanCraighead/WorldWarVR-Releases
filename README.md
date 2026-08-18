@@ -1,5 +1,3 @@
-# Important!! Installed launcher must be run as admin!
-
 # World War VR
 
 World War VR is a standalone VR mod for the Windows version of **Call of Duty: World at War**. It adds stereo OpenXR rendering, 6DOF head tracking, motion-controller aiming, VR input, room-space menu panels, and a standalone launcher.
@@ -11,6 +9,26 @@ World War VR is a standalone VR mod for the Windows version of **Call of Duty: W
 Download the latest **`WorldWarVR-Setup.exe`** from [GitHub Releases](https://github.com/RyanCraighead/WorldWarVR-Releases/releases), run it, and open **World War VR** from the Start Menu.
 
 The launcher normally finds a Steam installation automatically. If it does not, choose **Browse** and select the Call of Duty: World at War installation folder. Pick a launch target and VR quality preset, then select **Launch in VR**. The chosen folder and settings are remembered.
+
+After installation, right-click **World War VR** and select **Run as
+administrator** when starting the launcher. Launch the game through World War
+VR rather than opening the game executable directly.
+
+## Tested headsets and connection methods
+
+The following reflects hardware and connection methods tested so far:
+
+| Headset and connection | Status | Notes |
+|---|---|---|
+| Meta Rift S through Meta Horizon Link | **Working** | Tested using Meta as the active OpenXR launcher/runtime. |
+| Meta Rift S through SteamVR | **Working** | Tested with SteamVR as the active OpenXR runtime. |
+| Meta Quest 2 through Virtual Desktop | **Working** | This is the currently recommended wireless Quest 2 connection. |
+| Meta Quest 2 through Air Link and SteamVR compatibility mode | **Not currently working reliably** | The current build can crash during startup. A fix is planned. Testing this route requires selecting the **SteamVR Beta** branch in Steam so its 32-bit OpenXR runtime files are installed. SteamVR does not need to be opened manually; connect through Air Link and enable the SteamVR compatibility option in the World War VR launcher. |
+| Meta Quest 2 through Steam Link | **Known issues** | This connection is not currently considered a supported working route. |
+
+Other OpenXR headsets and connection methods may work, but have not yet been
+personally verified. If a headset fails, include the connection method and
+active OpenXR runtime in the bug report.
 
 ## Current mode support
 
