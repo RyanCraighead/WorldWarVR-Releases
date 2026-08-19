@@ -34,15 +34,3 @@ Native menus, cinematics, loading screens, and multiplayer team/class panels app
 
 Keyboard and mouse input remain available on the desktop as a fallback.
 
-## Campaign mission support
-
-Some campaign prompts use the game's original numbered support selections. While resting the right thumb on the controller thumbrest, move the left stick once:
-
-| Left-stick direction | Native campaign input |
-|---|---|
-| Left | `6` — rocket-barrage designator in Little Resistance |
-| Up | `5` |
-| Down | `N` |
-| Right | `7` |
-
-Movement pauses while this modifier is held. These inputs are disabled in multiplayer.
